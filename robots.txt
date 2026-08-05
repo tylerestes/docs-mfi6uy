@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-71p8mi.gridvar.com/sitemap.xml
